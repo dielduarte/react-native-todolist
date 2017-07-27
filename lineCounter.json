@@ -1,0 +1,12 @@
+{
+  "folders": [
+      "!**/node_modules",
+      "!**/__tests__",
+      "!**/.git",
+      "!**/android",
+      "!**/ios"
+    ],
+  "files": [
+      "**/app/*.js"
+    ]
+}
